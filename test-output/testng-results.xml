@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11078" started-at="2018-07-18T16:24:23Z" finished-at="2018-07-18T16:24:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11078" started-at="2018-07-18T16:24:23Z" finished-at="2018-07-18T16:24:34Z">
+      <class name="seleniumwaits.ExplicitWaitTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:seleniumwaits.ExplicitWaitTests@4883b407]" name="setUp" is-config="true" duration-ms="4836" started-at="2018-07-18T16:24:23Z" finished-at="2018-07-18T16:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:seleniumwaits.ExplicitWaitTests@4883b407]" name="test2" duration-ms="6167" started-at="2018-07-18T16:24:28Z" finished-at="2018-07-18T16:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:seleniumwaits.ExplicitWaitTests@4883b407]" name="clean" is-config="true" duration-ms="42" started-at="2018-07-18T16:24:34Z" finished-at="2018-07-18T16:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- seleniumwaits.ExplicitWaitTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
